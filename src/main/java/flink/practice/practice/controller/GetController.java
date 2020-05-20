@@ -1,6 +1,5 @@
 package flink.practice.practice.controller;
 
-import com.sun.prism.shader.Solid_TextureYV12_AlphaTest_Loader;
 import flink.practice.practice.entity.MemberTest;
 import flink.practice.practice.memberService;
 import flink.practice.practice.repository.memberRepository;
